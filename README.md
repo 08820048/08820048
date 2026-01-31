@@ -1,8 +1,7 @@
 # Hi, I'm Ornata 👋
 
-📍 Indie dev | Rust fan
+Indie dev | Rust fan | Built Welight: https://waer.ltd a lightweight Markdown editor for technical writing → https://ornata.app
 
-Built **Welight** — a lightweight Markdown editor for technical writing: https://waer.ltd → https://ornata.app
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
