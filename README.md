@@ -5,8 +5,6 @@
 
 Indie dev | Rust fan | Built Welight: https://waer.ltd a lightweight Markdown editor for technical writing → https://ornata.app
 
-![GitHub Stats](https://github-readme-stats-ten-alpha-34.vercel.app/api?username=08820048&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=08820048&theme=tokyonight&hide_border=true)
 
 ## Current Projects
 - 🌐 [Ornata.app](https://ornata.app)
