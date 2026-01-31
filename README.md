@@ -5,10 +5,9 @@ Indie dev | Rust fan | Built Welight: https://waer.ltd a lightweight Markdown ed
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![AI](https://img.shields.io/badge/-AI-000000?style=flat-square&logo=openai&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ## Current Projects
-- 🌐 [Ornata.app](https://ornata.app)
-- ✍️ [Welight](https://waer.ltd)
-- ✅ [Reverse Todo](https://reverse-todo.vercel.app)
-
+- 🌐 <img src="https://ornata.app/logo.png" alt="Ornata" height="16"/> [Ornata.app](https://ornata.app)
+- ✍️ <img src="https://waer.ltd/logo.png" alt="Welight" height="16"/> [Welight](https://waer.ltd)
+- 🧪 [GodCode](https://github.com/08820048/GodCode)
 ## Open Source (by ⭐)
 - ⭐ 182 · **[untools](https://github.com/08820048/untools)** — A simple and user-friendly underscore variable naming tool.
 - ⭐ 88 · **[xpwd](https://github.com/08820048/xpwd)** — A concise and powerful command-line password generator built with Rust
