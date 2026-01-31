@@ -31,8 +31,27 @@ Built **Welight** — a lightweight Markdown editor for technical writing: https
 - ✍️ [Welight](https://waer.ltd)
 - 🧪 [GodCode](https://github.com/08820048/GodCode)
 
-## Open Source
-- 🧩 **[untools](https://github.com/08820048/untools)** — A simple and user-friendly underscore variable naming tool.
+## GitHub Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=08820048&theme=tokyo-night)
+
+## Latest Blog Posts
+- [小白友好，简单说一下我是如何安装使用Moltbot的](https://ilikexff.cn/articles/88)
+- [深色模式切换的漫射动画：原理、架构与落地实现](https://ilikexff.cn/articles/87)
+- [虚幻引擎5.7正式发布:打造更宏大的实时渲染世界](https://ilikexff.cn/articles/86)
+- [预算5千，独立游戏开发电脑这样配！](https://ilikexff.cn/articles/85)
+- [代码与方程：打造游戏世界的数学艺术](https://ilikexff.cn/articles/84)
+
+RSS: https://ilikexff.cn/api/rss/feed.xml
+
+## What I'm Doing
+- Building a lightweight, modern, high-performance Markdown editor — https://ornata.app
+
+## Connect
+- Email: ilikexff@gmail.com
+- X: https://x.com/xuyixff
+- Website: https://ilikexff.cn
+
+## Open Source- 🧩 **[untools](https://github.com/08820048/untools)** — A simple and user-friendly underscore variable naming tool.
 - 🛠️ **[xpwd](https://github.com/08820048/xpwd)** — A concise and powerful command-line password generator built with Rust
 - 📦 **[codepins](https://github.com/08820048/codepins)** — CodePins 是一个轻量级 IntelliJ 插件，用于在代码中快速打点标记、备注，并在侧边栏集中查看与跳转。
 - ⚙️ **[apex](https://github.com/08820048/apex)** — apex-现代轻量化个人博客
