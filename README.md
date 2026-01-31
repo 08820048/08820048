@@ -32,7 +32,7 @@ Built **Welight** — a lightweight Markdown editor for technical writing: https
 - 🧪 [GodCode](https://github.com/08820048/GodCode)
 
 ## GitHub Activity
-![GitHub Contributions](https://github.com/users/08820048/contributions?format=svg)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=08820048&theme=tokyo-night)
 
 ## Latest Blog Posts
 - [小白友好，简单说一下我是如何安装使用Moltbot的](https://ilikexff.cn/articles/88)
