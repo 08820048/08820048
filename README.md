@@ -13,6 +13,19 @@ Built **Welight** — a lightweight Markdown editor for technical writing: https
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
+
+## Highlights
+- Indie Builder
+- Open Source Creator
+- Rust + Web Enthusiast
+
+## Links
+- https://ornata.app
+- https://waer.ltd
+- https://godcode.icu/
+
+
+
 ## Current Projects
 - 🌐 [Ornata.app](https://ornata.app)
 - ✍️ [Welight](https://waer.ltd)
