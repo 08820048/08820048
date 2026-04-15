@@ -1,6 +1,6 @@
-# Hi, I'm Ornata 👋
+# Hi, I'm XuYi 👋
 
-Indie dev | Rust fan | Built Welight: https://waer.ltd a lightweight Markdown editor for technical writing → https://ornata.app
+Indie dev | Rust lover
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -12,4 +12,8 @@ Indie dev | Rust fan | Built Welight: https://waer.ltd a lightweight Markdown ed
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
+## Build
+- [Ornata](https://ornata.app)  
+- [CalcFocus](https://calcfocus.cc/)  
+- [Welight](https://waer.ltd)
 
