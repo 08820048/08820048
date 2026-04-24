@@ -1,5 +1,4 @@
-# Hi, I'm XuYi 👋
+# Hi, I'm [XuYi](https://xuyi.dev) 👋
 
-[xuyi.dev](https://xuyi.dev)
 
 
